@@ -59,6 +59,8 @@ Supports `dotenv` to webpack project.
 #### `@babel/core`, `@babel/preset-env`, `babel-loader`
 Enables ES6 features.
 
+Ref: https://babeljs.io/docs/en/babel-preset-env
+
 #### `css-loader`, `style-loader`
 To use CSS files for the project.
 
